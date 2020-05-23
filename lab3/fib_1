@@ -1,0 +1,75 @@
+Current O: -O1 i bez iXsov!
+real 8.66
+user 8.65
+sys 0.00
+Current O: -O2 i bez iXsov!
+real 5.46
+user 5.45
+sys 0.00
+Current O: -O3 i bez iXsov!
+real 5.46
+user 5.45
+sys 0.00
+Current O: -O1
+Current X: -xSSE2
+real 8.66
+user 8.65
+sys 0.00
+Current X: -xSSSE3
+real 7.75
+user 7.74
+sys 0.00
+Current X: -xSSE4.1
+real 7.74
+user 7.74
+sys 0.00
+Current X: -xSSE4.2
+real 7.75
+user 7.74
+sys 0.00
+Current X: -xAVX
+real 7.74
+user 7.74
+sys 0.00
+Current O: -O2
+Current X: -xSSE2
+real 5.46
+user 5.45
+sys 0.00
+Current X: -xSSSE3
+real 5.45
+user 5.45
+sys 0.00
+Current X: -xSSE4.1
+real 5.46
+user 5.45
+sys 0.00
+Current X: -xSSE4.2
+real 5.46
+user 5.45
+sys 0.00
+Current X: -xAVX
+real 5.45
+user 5.45
+sys 0.00
+Current O: -O3
+Current X: -xSSE2
+real 5.45
+user 5.45
+sys 0.00
+Current X: -xSSSE3
+real 5.45
+user 5.45
+sys 0.00
+Current X: -xSSE4.1
+real 5.46
+user 5.46
+sys 0.00
+Current X: -xSSE4.2
+real 5.45
+user 5.45
+sys 0.00
+Current X: -xAVX
+real 5.46
+user 5.45
+sys 0.00
